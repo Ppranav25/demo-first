@@ -1,0 +1,15 @@
+{
+  "name": "lec1-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "second.js"
+  },
+  "bin": {
+    "wcat": "second.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
